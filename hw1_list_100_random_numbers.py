@@ -1,13 +1,3 @@
-"""
-Create a python script:
-    Create list of 100 random numbers from 0 to 1000
-    Sort list from min to max without using sort()
-    Calculate the average for even and odd numbers
-    Print both average result in console
-    Each line of code should be commented with description.
-Commit script to git repository and provide link as home task result.
-"""
-
 import random
 
 # Create a list of 100 random numbers between 0 and 1000
@@ -46,5 +36,5 @@ average_even = sum_even / count_even if count_even > 0 else 0
 average_odd = sum_odd / count_odd if count_odd > 0 else 0
 
 # Print the averages
-print("Average of even numbers:", average_even)
-print("Average of odd numbers:", average_odd)
+print(f"Average of even numbers: {average_even}")
+print(f"Average of odd numbers: {average_odd}")
