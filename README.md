@@ -26,7 +26,7 @@ example: {'a_1': 5, 'b': 7, 'c': 35, 'g_2': 42}
 Each line of code should be commented with description.
 Commit script to git repository and provide link as home task result.
 
-## Home task 
+## Home task #3
 tHis iz your homeWork, copy these Text to variable.
 
 
@@ -41,3 +41,5 @@ tHis iz your homeWork, copy these Text to variable.
 
   last iz TO calculate nuMber OF Whitespace characteRS in this Tex. caREFULL, not only Spaces, but ALL whitespaces. I got 87.
 
+## Home task #4
+Refactor the homework from the module 3 using functional approach with decomposition
