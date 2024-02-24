@@ -26,6 +26,7 @@ example: {'a_1': 5, 'b': 7, 'c': 35, 'g_2': 42}
 Each line of code should be commented with description.
 Commit script to git repository and provide link as home task result.
 
+
 ## Home task #3
 tHis iz your homeWork, copy these Text to variable.
 
@@ -41,5 +42,21 @@ tHis iz your homeWork, copy these Text to variable.
 
   last iz TO calculate nuMber OF Whitespace characteRS in this Tex. caREFULL, not only Spaces, but ALL whitespaces. I got 87.
 
+
 ## Home task #4
 Refactor the homework from the module 3 using functional approach with decomposition
+
+
+## Home task #5
+Create a tool, which will do user generated news feed:
+1.User select what data type he wants to add
+2.Provide record type required data
+3.Record is published on text file in special format
+
+You need to implement:
+1.News – text and city as input. Date is calculated during publishing.
+2.Privat ad – text and expiration date as input. Day left is calculated during publishing.
+3.Your unique one with unique publish rules.
+
+Each new record should be added to the end of file. Commit file in git for review.
+
