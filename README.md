@@ -1,6 +1,7 @@
 # Python-DataQuality
 Python for Data Quality Engineers program. Repository for home tasks
 
+
 ## Home task #1
 Create a python script:
     Create list of 100 random numbers from 0 to 1000
@@ -60,10 +61,20 @@ You need to implement:
 
 Each new record should be added to the end of file. Commit file in git for review.
 
+
 ## Home task #6
 Expand previous Homework 5 with additional class, which allows to provide records by text file:
 1.Define your input format (one or many records)
 2.Default folder or user provided file path
 3.Remove file if it was successfully processed
+
+
+## Home task #7
+Calculate number of words and letters from previous Homeworks 5/6 output test file.
+Create two csv:
+1.word-count (all words are preprocessed in lowercase)
+2.letter, count_all, count_uppercase, percentage (add header, spacecharacters are not included)
+CSVs should be recreated each time new record added.
+Note: Updated for the Custom record
 
 
