@@ -75,6 +75,13 @@ Create two csv:
 1.word-count (all words are preprocessed in lowercase)
 2.letter, count_all, count_uppercase, percentage (add header, spacecharacters are not included)
 CSVs should be recreated each time new record added.
-Note: Updated for the Custom record
+
+
+## Home task #8
+Expand previous Homework 5/6/7 with additional class, which allows to provide records by JSON file:
+1.Define your input format (one or many records)
+2.Default folder or user provided file path
+3.Remove file if it was successfully processed
+
 
 
